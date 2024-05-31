@@ -1,6 +1,6 @@
 {
   "name": "@niu/components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "module": "index.ts",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@niu/hooks": "^1.0.0"
+    "@niu/hooks": "^1.0.2"
   }
 }
