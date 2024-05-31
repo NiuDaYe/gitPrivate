@@ -30,7 +30,9 @@ pnpm add typescript -D -w
 
 六、提交代码到Git
 
-七、
+七、lerna publish 到私仓
+
+   查看: http://localhost:4873
 
 
 
